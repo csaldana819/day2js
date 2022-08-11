@@ -64,3 +64,5 @@ console.log(110 + 2);
 
 // + overloadingfor strings
 console.log("Favorite" + "Pizza")
+
+console.log("erik montes".length);
